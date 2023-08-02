@@ -3,8 +3,9 @@
 - Android developer
 - Kotlin
 - Java
-- PHP
-- - :zap: I love android development
+- PHP (Laravel & Slim Frameworks)
+- REST API Development
+- - :zap: I love android and backend development
 - 🌱 I’m passionate in android development and easy in grabbing new programming concepts
 -
 <!-- - 📫 How to find me: 
