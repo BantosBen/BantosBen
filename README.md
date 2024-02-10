@@ -23,7 +23,6 @@ Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/an
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=BantosBen&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BantosBen&hide=html&layout=compact&theme=dark" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=angatiabenson&hide=html&layout=compact&theme=dark" align="center" /></td>
     </tr>   
   </table>
