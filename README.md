@@ -20,12 +20,12 @@ Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/an
 ### 📊 My Coding Stats
 
 <center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=BantosBen&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=angatiabenson&hide=html&layout=compact&theme=dark" align="center" /></td>
-    </tr>   
-  </table>
+ <table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=bensonetia&layout=compact&theme=dark" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=angatiabenson&theme=dark" /></td>
+  </tr>
+</table>
 </center>
 <hr>
 <h2 align="left">Technologies and Tools</h2>
